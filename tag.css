@@ -1,0 +1,98 @@
+div.general{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 100px;
+    padding: 30px;
+    /* box-sizing: border-box; 
+    width: 600px;
+    height: 700px;*/
+
+}
+.first{
+    text-align: center;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.second{
+    text-align: center;
+}
+.third{
+    text-align: center;
+}
+img{
+    width: 250px; height: 150px;
+}
+h3.thirdh{
+    color: gray;
+}
+.custom{
+    color: lightseagreen;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.sleep{
+    color: lightseagreen;
+    padding-bottom: 2rem;
+}
+.free{
+    font-weight: bolder;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightseagreen;
+}
+.sign{
+    border-radius: 2rem;
+    border-style: double;
+    padding: 7%;
+    color: white;
+    background-color: lightseagreen;
+}
+.sleeph{
+    color: lightseagreen;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.workers{
+    color: lightseagreen;
+    padding-bottom: 2rem;
+}
+.money{
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightseagreen;
+    padding-bottom: 2.8rem;
+    padding-top: 1.5rem;
+}
+.trial{
+    border-style: double;
+    border-radius: 2rem;
+    padding: 7%;
+    color: white;
+    background-color: lightseagreen;
+}
+.dedd{
+    color: lightseagreen;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.simple{
+    color: lightseagreen;
+    padding-bottom: 2rem;
+}
+.dols{
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightseagreen;
+    padding-bottom: 1.8rem;
+    padding-top: 2rem;
+}
+.last{
+    border-radius: 2rem;
+    border-style: double;
+    padding: 7%;
+    color: white;
+    background-color: lightseagreen;
+}
